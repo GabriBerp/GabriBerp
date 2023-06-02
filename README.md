@@ -23,5 +23,5 @@
 </details>
 
 # Status
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garylickt&layout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylickt&layout=compact&theme=blue-green)
 
