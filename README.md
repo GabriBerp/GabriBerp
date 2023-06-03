@@ -1,7 +1,7 @@
 ![welcome](https://github.com/GaryLickt/GaryLickt/assets/70419113/be3bdc77-6c6e-4e7c-886b-8f305c325661)
 # About Me - EN Version 👀
 <details>
-<summary>Clique Para Abrir</summary>
+<summary>Click to Open</summary>
 - My name is Gabriel</br>
 - I am currently 17 years old</br> 
 - I study at the Universidade Católica de Pernambuco 💵</br>
