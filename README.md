@@ -1,4 +1,8 @@
-![welcome](https://github.com/GaryLickt/GaryLickt/assets/70419113/be3bdc77-6c6e-4e7c-886b-8f305c325661)
+![welcome](https://github.com/GaryLickt/GaryLickt/assets/70419113/be3bdc77-6c6e-4e7c-886b-8f305c325661)</br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bibielwo_/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@gabri_berp)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSZ3PYvlHkhHl5XkeQd70Rg)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LicktGary)
 # About Me - EN Version 👀
 <details>
 <summary>Click to Open</summary>
@@ -22,5 +26,8 @@
 - E planejo usar o github para guardar e documentar meus codigos feitos durante esse tempo na universidade 🤓</br>
 </details>
 
+
 # Status
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garylickt&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garylickt&show_icons=true&theme=radical)</br>
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylickt&layout=compact&theme=blue-green)
