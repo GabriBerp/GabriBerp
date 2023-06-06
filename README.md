@@ -1,4 +1,4 @@
-![welcome](https://github.com/GaryLickt/GaryLickt/assets/70419113/be3bdc77-6c6e-4e7c-886b-8f305c325661)</br>
+![download](https://github.com/GaryLickt/GaryLickt/assets/70419113/bb2043e7-c0b0-4da1-9ff1-670104ada15b)</br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bibielwo_/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@gabri_berp)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSZ3PYvlHkhHl5XkeQd70Rg)
