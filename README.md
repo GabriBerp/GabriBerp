@@ -3,9 +3,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@gabri_berp)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSZ3PYvlHkhHl5XkeQd70Rg)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LicktGary)
-# About Me - EN Version 👀
+# About Me - Sobre Mim 🇧🇷 👀
 <details>
-<summary>Click to Open</summary>
+<summary>-EN Version-</summary>
 - My name is Gabriel</br>
 - I am currently 17 years old</br> 
 - I study at the Universidade Católica de Pernambuco 💵</br>
@@ -14,10 +14,8 @@
 - And I plan to use github to store and document my codes made during this time at university 🤓</br>
 </details>
 
-# Sobre Mim - Versão BR 💀
-
 <details>
-<summary>Clique Para Abrir</summary>
+<summary>-Versão BR-</summary>
 - Meu nome é Gabriel</br>
 - Atualmente possuo 17 anos</br>
 - Estou estudando na Universidade Católica de Pernambuco 💵</br>
@@ -25,6 +23,13 @@
 - Estou estudando Ciencias da Computação, e atualmente estou no 1º periodo 🖥</br>
 - E planejo usar o github para guardar e documentar meus codigos feitos durante esse tempo na universidade 🤓</br>
 </details>
+
+# Projects - Projetos 🇧🇷
+**↳WORKING ON - EM DESENVOLVIMENTO 🇧🇷**</br>
+[**nothing - nada 🇧🇷**]()</br>
+
+**↳PAUSED - PAUSADO**</br>
+[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋𝚒'𝚜 𝙳𝚊𝚒𝚕𝚢 𝙳𝚘𝚜𝚎 𝚘𝚏 𝙵𝚒𝚐𝚑𝚝](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Gabi's%20Daily%20Dose%20of%20Fight_BETA)</br>
 
 
 # Status
