@@ -25,8 +25,6 @@
 </details>
 
 # Projects - Projetos 🇧🇷
-##   **↳ Follow me on twitter or tiktok for news about these projects**
-##   **↳Me siga no twitter ou tiktok para noticias sobre esses projetos 🇧🇷**</br>
 **↳WORKING ON - EM DESENVOLVIMENTO 🇧🇷**</br>
 [**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋e: A Luta de Cada Dia (45%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Gabi's%20Daily%20Dose%20of%20Fight_BETA)</br>
 [**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Contos do Abismo (32%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker)</br>
