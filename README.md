@@ -25,14 +25,15 @@
 </details>
 
 # Projects - Projetos 🇧🇷
+##   **↳ Follow me on twitter or tiktok for news about these projects**
+##   **↳Me siga no twitter ou tiktok para noticias sobre esses projetos 🇧🇷**</br>
 **↳WORKING ON - EM DESENVOLVIMENTO 🇧🇷**</br>
 [**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋e: A Luta de Cada Dia (45%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Gabi's%20Daily%20Dose%20of%20Fight_BETA)</br>
 [**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Contos do Abismo (32%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker)</br>
-[**𝔻𝔸𝕋𝔸ℙ𝔸ℂ𝕂 𝕄𝕀ℕ𝔼ℂℝ𝔸𝔽𝕋** = HSMP Datapack (85%)](https://github.com/GaryLickt/HSMP_Datapack)
+[**𝔻𝔸𝕋𝔸ℙ𝔸ℂ𝕂 𝕄𝕀ℕ𝔼ℂℝ𝔸𝔽𝕋** = HSMP Datapack (85%)](https://github.com/GaryLickt/HSMP_Datapack)</br>
 
 **↳PAUSED - PAUSADO**</br>
 [**nothing - nada 🇧🇷**](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker)</br>
-
 
 # Status
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garylickt&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
