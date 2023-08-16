@@ -26,8 +26,8 @@
 
 # Projects - Projetos 🇧🇷
 **↳WORKING ON - EM DESENVOLVIMENTO 🇧🇷**</br>
-[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋i: A Luta de Cada Dia (45%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Gabi's%20Daily%20Dose%20of%20Fight_BETA)</br>
-[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Contos do Abismo (32%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker)</br>
+[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋i: A Luta de Cada Dia (45%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Gabi%20a%20Luta%20de%20cada%20dia)</br>
+[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Contos do Abismo (32%)](https://github.com/GaryLickt/codigos/tree/Faculdade/Codigos_GameMaker/Contos%20do%20Abismo)</br>
 [**𝔻𝔸𝕋𝔸ℙ𝔸ℂ𝕂 𝕄𝕀ℕ𝔼ℂℝ𝔸𝔽𝕋** =  Scary Night (15%)](https://github.com/GaryLickt/HSMP_Datapack)</br>
 
 **↳PAUSED - PAUSADO**</br>
