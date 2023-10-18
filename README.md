@@ -10,6 +10,9 @@
 - I am currently 18 years old</br> 
 - I study at the Universidade Católica de Pernambuco 💵</br>
 - And I'm brazilian 😲</br>
+- I currently enjoy developing games using GameMaker Studio 2, and creating datapacks and mods for Minecraft🤓</br>
+- I also like to mess with pixel art, even though I don't have as much knowledge as I would like to have🗿</br>
+- From time to time I develop electronic music, to use in my games, also without much knowledge, basic stuff🔊</br>
 - I'm studying computer science, currently in the 2st period 🖥</br>
 - And I plan to use github to store and document my codes made during this time at university 🤓</br>
 </details>
@@ -20,6 +23,9 @@
 - Atualmente possuo 18 anos</br>
 - Estou estudando na Universidade Católica de Pernambuco 💵</br>
 - E sou brasileiro 😲</br>
+- Atualmente gosto de desenvolver jogos usando o GameMaker Studio 2, e criar datapacks e mods para Minecraft🤓</br>
+- Gosto tambem de mexer com pixel art, mesmo não tendo TANTO dominio como gostaria de ter🗿</br>
+- De vez enquando desenvolvo musicas eletronicas, para usar em meus jogos, tambem sem muito dominio, coisa basica🔊</br>
 - Estou estudando Ciencias da Computação, e atualmente estou no 2º periodo 🖥</br>
 - E planejo usar o github para guardar e documentar meus codigos feitos durante esse tempo na universidade 🤓</br>
 </details>
