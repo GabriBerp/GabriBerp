@@ -33,7 +33,7 @@
 # Projects - Projetos 🇧🇷
 **↳WORKING ON - EM DESENVOLVIMENTO 🇧🇷**</br>
 [**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = 𝙶𝚊𝚋i: A Luta de Cada Dia (45%)](https://github.com/GabriBerp/codigos/tree/Faculdade/Codigos_GameMaker/Gabi%20a%20Luta%20de%20cada%20dia)</br>
-[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Historias do Abismo (32%)](https://github.com/GabriBerp/codigos/tree/Faculdade/Codigos_GameMaker/Contos%20do%20Abismo)</br>
+[**𝔾𝔸𝕄𝔼 - 𝕁𝕆𝔾𝕆 🇧🇷** = Historias do Abismo (32%)](https://github.com/GabriBerp/codigos/tree/Faculdade/Codigos_GameMaker/Historias%20do%20Abismo)</br>
 [**𝔻𝔸𝕋𝔸ℙ𝔸ℂ𝕂 𝕄𝕀ℕ𝔼ℂℝ𝔸𝔽𝕋** =  HSMP Datapack (15%)](https://github.com/GabriBerp/HSMP_Datapack)</br>
 
 **↳PAUSED - PAUSADO**</br>
