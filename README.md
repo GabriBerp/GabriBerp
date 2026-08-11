@@ -1,5 +1,5 @@
 # About Me
-My name is Gabriel Bezerra, and I am a 20-year-old student currently enrolled at the Universidade Católica de Pernambuco.</br>
+My name is Gabriel Bezerra, and I am a 21-year-old student currently enrolled at the Universidade Católica de Pernambuco.</br>
 
 I have a background in Computer Science, having completed up to the 4th semester, and I am now pursuing a degree in Digital Games, where I am currently in my 3nd semester.</br>
 
