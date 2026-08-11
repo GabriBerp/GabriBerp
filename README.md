@@ -11,7 +11,3 @@ I plan to use this GitHub repository as a space to store and document the code I
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@gabri_berp)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSZ3PYvlHkhHl5XkeQd70Rg)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LicktGary)
-
-# Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriberp&show_icons=true&theme=radical)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriberp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
