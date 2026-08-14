@@ -12,3 +12,9 @@ Aqui guardo repositórios de projetos feitos em grupo durante o tempo em Ciencia
 # Onde me Encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bibielwo_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-pereira-81b24628b/)</br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabriBerp/GabriBerp/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabriBerp/GabriBerp/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GabriBerp/GabriBerp/output/github-snake.svg">
+</picture>
