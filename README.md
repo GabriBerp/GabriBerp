@@ -12,5 +12,3 @@ Aqui guardo repositórios de projetos feitos em grupo durante o tempo em Ciencia
 # Onde me Encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bibielwo_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bezerra-pereira-81b24628b/)</br>
-
-![snake animation](https://github.com/GabriBerp/GabriBerp/blob/output/github-contribution-grid-snake2.svg)
